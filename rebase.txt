@@ -1,1 +1,6 @@
+<<<<<<< b27dc4b9f2bd1115d4284fff7fb24f123cfc8819
 mastermaster
+=======
+master
+develop
+>>>>>>> local develop commit
