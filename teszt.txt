@@ -1,7 +1,0 @@
-master commit
-new commit
-feature
-feature
-feature
-feature
-fix bug

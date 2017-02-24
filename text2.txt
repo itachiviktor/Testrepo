@@ -1,6 +1,0 @@
-sjdbsv
-feature
-feature
-feature
-feature
-hotfix
