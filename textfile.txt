@@ -2,3 +2,4 @@ Alma
 körte
 szilva
 from master
+from master
